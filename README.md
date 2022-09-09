@@ -1,6 +1,6 @@
 # Ubuntu-Desktop-noVNC-Heroku-VPS (EXPERIMENTAL)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/apps/heroku-rdp-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://developeranaz.github.io/Ubuntu-Desktop-noVNC-Heroku-VPS/random.html)
 
 Ubuntu-Desktop-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
 
