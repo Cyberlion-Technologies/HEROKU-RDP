@@ -25,3 +25,8 @@ NOTE : Heroku can't handle a full machine's workload.
 * Don't post issues this repository is full of issues i can't fix them.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://developeranaz.github.io/Ubuntu-Desktop-noVNC-Heroku-VPS/random.html)
+</br>
+</br>
+<h3 align="left">Support Developer:</h3>
+<p><a href="https://www.buymeacoffee.com/murutubrian"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="murutubrian" /></a><a href="https://www.paypal.com/donate/?hosted_button_id=KBUV9X67U6XYW"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="75" width="210" alt="Donate with PayPal" />
+</a></p><br><br>
